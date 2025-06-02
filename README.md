@@ -3,7 +3,7 @@ Disable/Enable notebook xinput keyboard in Linux.
 
 ## Repository contains
 **1. Python Script with logic**\
-**2. Desktop Shortcut to RUN script**\
+**2. Desktop Shortcut to RUN script**
 
 ## Requirements
 
