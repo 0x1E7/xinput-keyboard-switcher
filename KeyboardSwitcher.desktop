@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=KeyboardSwitch
+Comment=Keyboard enabler disabler
+Exec=python3 /home/user/keyboardswitch.py
+Terminal=true
+Type=Application
+Categories=Utilities;
