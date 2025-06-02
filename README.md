@@ -17,5 +17,5 @@ Disable/Enable notebook xinput keyboard in Linux.
 Edit .py script (place ur xinput device name in variable on 4 line, find ur device by using command xinput list)
 ```
 
-## Changelog v1.0.0
-**[**+**]** *Initial commit, script written... ¯\\_(ツ)_/¯*
+## Changelog v1.0.1
+**[**+**]** *Minor changes in names*
